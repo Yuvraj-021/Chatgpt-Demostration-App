@@ -5,4 +5,5 @@ Special Features ✨: <br/>
 -> Follows Mvvm Architecture <br/>
 -> Retrofit - for network calls <br/>
 -> View Binding: for binding ui elements <br/>
+-> Dependency Injection: enables loose coupling between components <br/>
 
